@@ -6,7 +6,7 @@ To start, go to the first prompt and copy-paste it into an LLM of your choice.
 
 ## Module 1 - Python Programming Language and Reporting
 
-### 1.1 [Introduction to Python and Setting up the Environment](Module%201/Part%201.%20Introduction%20to%20Python%20and%20Setting%20up%20the%20Environment.md)
+### 1.1 [Introduction to Python and Setting up the Environment](Module%201/Part%201.%20Introduction%20to%20Python%20and%20Setting%20up%20the%20Environment)
 
 This session introduces Python as a versatile programming language for data analysis in
 psychology. Participants will learn how to set up their programming environment, install
