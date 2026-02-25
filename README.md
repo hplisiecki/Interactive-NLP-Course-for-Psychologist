@@ -2,7 +2,7 @@
 This is an experimental interactive Course for Psychologists to learn NLP for psychology. It contains readymade prompts students can paste into the LLM of their choice and begin their NLP journey.
 
 
-## Part 1 - Python Programming Language and Reporting
+## Module 1 - Python Programming Language and Reporting
 
 ### Introduction to Python and Setting up the Environment
 
