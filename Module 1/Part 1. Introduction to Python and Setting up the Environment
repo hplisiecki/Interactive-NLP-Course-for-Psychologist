@@ -5,7 +5,7 @@ First ask me:
 2) Am I allowed to install software on this machine? (admin rights yes/no)
 3) Do I want GitHub too, or only local Git for now?
 
-RULES FOR YOU (ChatGPT):
+RULES FOR YOU (LLM Agent):
 - Give me ONE small step at a time.
 - After each step, ask me to confirm what I see (or paste the exact output/error).
 - If something might differ between Windows and macOS, branch clearly.
