@@ -1,6 +1,8 @@
 # Interactive-NLP-Course-for-Psychologist
 This is an experimental interactive Course for Psychologists to learn NLP for psychology. It contains readymade prompts students can paste into the LLM of their choice and begin their NLP journey.
 
+To start, go to the first prompt and copy-paste it into an LLM of your choice.
+
 
 ## Module 1 - Python Programming Language and Reporting
 
